@@ -1,0 +1,4 @@
+#Mon Aug 20 17:32:07 BST 2018
+base.0=/home/tabuz/projects/scaffold/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
