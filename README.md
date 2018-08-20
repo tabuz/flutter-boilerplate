@@ -1,6 +1,12 @@
-# scaffold
+# Flutter Boilerplate
 
-A new Flutter project.
+Basic structure to start Flutter Application.
+
+
+
+<p align="center">
+<img src="images/Screenshot_1534783997.png" width="400"/>
+</p>
 
 ## Getting Started
 
